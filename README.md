@@ -4,6 +4,6 @@ project-stud-prof-group
 MonsterRoar's edition
 AngelinaCh's edition
 Alice611's edition
-Shkatulka's editing
+Shkatulka's editing)
 dilaraG's edition
 \ No newline at end of file
