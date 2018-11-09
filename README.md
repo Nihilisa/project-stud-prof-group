@@ -1,9 +1,9 @@
 # project-stud-prof-group
 project-stud-prof-group
 +
-+ MonsterRoar edition
-+ AngelinaCh edition
-+ Alice611 edition
-+ Shkatulka edition
-+ dilaraG edition
++ MonsterRoars edition
++ AngelinaChs edition
++ Alice611s edition
++ Shkatulkas edition
++ dilaraGs edition
 \ No newline at end of file
